@@ -1,0 +1,29 @@
+.accordion {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    }
+    .accordion-item {
+    border-bottom: 1px solid #ddd;
+    }
+    .accordion-header {
+    padding: 15px;
+    background-color: #eee;
+    cursor: pointer;
+    }
+    .accordion-header:hover {
+    background-color: #ddd;
+    }
+    .accordion-header:active {
+    background-color: #2918ec;
+    }
+    .accordion-header h3 {
+    margin: 0;
+    }
+    .accordion-content {
+    display: none;
+    padding: 15px;
+    }
+    .marge{
+        margin-top: 25%;
+
+    }
